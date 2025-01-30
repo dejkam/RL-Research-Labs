@@ -1,0 +1,15 @@
+Whiteson Research Lab: https://whirl.cs.ox.ac.uk/
+Also you can find more information here at the following link:
+https://www.cs.ox.ac.uk/activities/drl/
+
+The Deep Reinforcement Learning (DRL) group at the University of Oxford's Department of Computer Science focuses on advancing the field of reinforcement learning, where agents learn optimal behaviors through trial-and-error interactions with their environment. By integrating deep neural networks, the group addresses complex challenges such as high-dimensional state and action spaces, sparse reward signals, and observational uncertainties.
+
+Key research areas include:
+
+Multi-Agent Deep Reinforcement Learning: Developing algorithms that enable teams of cooperating agents to learn control policies for complex tasks, including techniques for learning to communicate and stabilizing multi-agent experience replay.
+
+Deep Model-Based Reinforcement Learning: Creating methods where agents learn models of their environment and use them to efficiently plan and act optimally, utilizing approaches like look-ahead tree planning.
+
+Robust Reinforcement Learning: Designing methods that ensure agents remain effective even in the face of significant rare events, which, despite their low probability, can substantially impact performance.
+
+Active Perception: Developing decision-theoretic methods to help perception systems, such as multi-camera tracking systems, make efficient use of scarce resources like computation and bandwidth.
